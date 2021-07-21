@@ -28,6 +28,31 @@ const resources = {
       select: 'Select Language',
     },
   },
+  'de-DE': {
+    translation: {
+      title: 'WiFi Karte',
+      'desc.use':
+        'Druck dieser Karte mit deine WLAN Zugangsdaten um auf Kühschrank zu kleben, auf dein Parmonai, etc',
+      'desc.privacy':
+        'Deine WLAN Daten werden nie zum Server geschickt. Kein tracking, Web-analytics, oder Ähnliches (fingerprinting) werden auf dieser Webseite benutzt. Siehe Source',
+      'desc.source': 'source code',
+      'wifi.login': 'WLAN',
+      'wifi.name': 'WLAN-Name (SSID)',
+      'wifi.name.placeholder': 'WLAN-Name (SSID)',
+      'wifi.password': 'Passwort',
+      'wifi.password.placeholder': 'Passwort',
+      'wifi.password.hide': 'Passowrt vor dem Drucken ausblenden',
+      'wifi.password.encryption': 'Verschlüsselung',
+      'wifi.tip':
+        "QS-Code mit Handy fotografieren, um eine automatische Verbindung zum WLAN herzustellen",
+      'wifi.alert.name': 'WLAN-Name muss eingegeben werden',
+      'wifi.alert.password.length.5': 'Passwort muss mindestens 5 Zeichen lang sein',
+      'wifi.alert.password.8': 'Passwort muss mindestens 8 Zeichen lang sein',
+      'button.rotate': 'Drehen',
+      'button.print': 'Drucken',
+      select: 'Sprache auswählen',
+    },
+  },
   'nl-NL': {
     translation: {
       title: 'WiFi Kaart',
